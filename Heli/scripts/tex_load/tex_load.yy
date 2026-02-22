@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tex_load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tex_load",
+  "parent":{
+    "name":"Heli",
+    "path":"Heli.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

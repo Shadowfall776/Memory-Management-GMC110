@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pool_get_bullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pool_get_bullet",
+  "parent":{
+    "name":"Heli",
+    "path":"Heli.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
